@@ -26,4 +26,4 @@
   
   🟢 Maximum file size is 20mb.
   
- 
+  🟢 Clone the repo. NPM install. Npm start 
